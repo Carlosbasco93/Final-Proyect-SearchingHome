@@ -1,4 +1,4 @@
-![portada](<img width="1438" alt="Captura de Pantalla 2022-10-07 a las 0 58 33" src="https://user-images.githubusercontent.com/107916116/194433593-e6b0a331-1480-49ba-baca-686b728e10dc.png">)
+<img width="1438" alt="Captura de Pantalla 2022-10-07 a las 0 58 33" src="https://user-images.githubusercontent.com/107916116/194433593-e6b0a331-1480-49ba-baca-686b728e10dc.png">
 
 # Final proyect - Searching Home
 
@@ -49,7 +49,7 @@ Mediante dos dashboards:
     Precio euro/m2 contra el promedio de los metros de las viviendas.
     
  - Para end-user:
-   1.Datos viviendas / URL
+   1. Datos viviendas / URL
       Tabla con la información completa de las viviendas filtradas.
 
 Vista previa:
